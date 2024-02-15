@@ -49,3 +49,6 @@ def numero_primo(base):
             if i == len(primos):
                 break
         return 0, primos[0:i]
+
+# comment to test out git
+    
